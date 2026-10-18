@@ -1,0 +1,6 @@
+{
+  "vlm_slide_analyzer": "folder_prompts/slide_analyzer.md",
+  "conspect_editor": "folder_prompts/conspect_editor.md",
+  "test_generator": "folder_prompts/test_generator.md",
+  "answer_judge": "folder_prompts/answer_judge.md"
+}
